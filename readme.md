@@ -8,10 +8,10 @@ This is a set of application notes on how to program SeAL enabled devices in dif
 4. Datalogger
     * Send Email from Inverter with Mobile Net
     * Send FTP from Inverter with Ethernet
-5. Send FTP from Inverter with Mobile Net
-6. Email with SSL SMTP
-7. Math
-8. Modbus Slave Inputs Copy
+    * Send FTP from Inverter with Mobile Net
+5. Email with SSL SMTP
+6. Math
+7. Modbus Slave Inputs Copy
 
 # LICENSE
 This SENECA code is free to use with SENECA S.r.l. hardware and software devices.
