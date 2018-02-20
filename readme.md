@@ -1,3 +1,5 @@
+![Seneca Logo](seneca_web.png "SENECA S.r.l.")
+
 # About
 This is a set of application notes on how to program SeAL enabled devices in different environment.
 
